@@ -1,0 +1,52 @@
+_repo: The-Fruit-of-the-Tree_19191
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Kimball, Alonzo
+    birthdate: 1874
+    deathdate: 1923
+    gutenberg_agent_id: '8161'
+    url: http://www.gutenberg.org/2009/agents/8161
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wharton, Edith
+    aliases:
+    - Olivieri, David
+    - Wharton, Edith Newbold Jones
+    birthdate: 1862
+    deathdate: 1937
+    gutenberg_agent_id: '104'
+    url: http://www.gutenberg.org/2009/agents/104
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Edith_Wharton
+    - http://en.wikipedia.org/wiki/Edith_Wharton
+description: Brimming with romance and important social questions, Edith Wharton's
+  novel The Fruit of the Tree offers something for everyone. The story expertly weaves
+  themes of workers' rights, medical ethics, and end-of-life care into the framework
+  of a conventional -- but pulse-pounding -- romantic entanglement.
+gutenberg_issued: '2006-09-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19191'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Domestic fiction'
+- !lcc 'PS'
+- !lcsh 'Triangles (Interpersonal relations) -- Fiction'
+- !lcsh 'Industrial relations -- Fiction'
+- !lcsh 'Female friendship -- Fiction'
+- !lcsh 'Labor movement -- Fiction'
+- !lcsh 'Textile industry -- Fiction'
+- !lcsh 'Psychological fiction'
+- !lcsh 'Love stories'
+- !lcsh 'Widows -- Fiction'
+- !lcsh 'Remarried people -- Fiction'
+- !lcsh 'Berkshire Hills (Mass.) -- Fiction'
+title: The Fruit of the Tree
+url: http://www.gutenberg.org/ebooks/19191
